@@ -16,9 +16,9 @@
 ---
 
 #### **Rule 2: Continuous Integration of Code and Knowledge**
-**Merge often. Review often. Refactor often.**
+[Merge often. Review often. Refactor often.](Rule%202.md)
 
-Keep your codebase healthy through frequent integration. Small, regular merges prevent merge hell, code reviews share knowledge across the team, and continuous refactoring prevents technical debt from accumulating.
+*Keep your codebase healthy through frequent integration. Small, regular merges prevent merge hell, code reviews share knowledge across the team, and continuous refactoring prevents technical debt from accumulating.*
 
 ---
 
