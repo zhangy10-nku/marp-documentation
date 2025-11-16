@@ -22,10 +22,22 @@
 
 ---
 
-#### **Rule 3: Ship Early, Learn Fast**
-**MVP ASAP.**
+#### **Rule 3: Ship Early, Learn Fast, Users Are Your North Star**
+**MVP ASAP. Talk with users often. Get feedback as soon as possible.**
 
-Get a Minimum Viable Product into users' hands as quickly as possible. Real-world feedback beats theoretical planning every time. Iterate based on actual usage, not assumptions.
+Get a Minimum Viable Product into users' hands as quickly as possible. Real-world feedback beats theoretical planning every time. Your users define success—regular communication ensures you're building what actually matters. Quick feedback loops and genuine understanding of user needs prevent wasted effort and missed opportunities. Iterate based on actual usage, not assumptions.
+
+**Avoid over-engineering based on current information.** Your knowledge of the project is everchanging and constantly growing, and so are your requirements. The project grows just as the users you support grow—they learn, they improve processes, and with it, your project and you both need to adapt.
+
+It is therefore critical to learn the users' business just as much as you learn your own. Spend as much time learning business knowledge and use cases as you would learning a new tech stack. You need to master the use cases to the point where you are a power user of your own software. This deep understanding prevents building elaborate solutions for problems that don't exist while ensuring you address the real challenges users face.
+
+**Common Pitfalls Engineers Must Avoid:**
+- Don't be the engineer who never uses their own product like an end user
+- Don't become siloed in one corner of the codebase
+- Don't think like an engineer—think like an end user
+- Don't treat requirements as a checklist for bare minimum compliance
+
+[Read the full detailed breakdown in Rule 3.md](Rule%203.md)
 
 ---
 
@@ -33,13 +45,6 @@ Get a Minimum Viable Product into users' hands as quickly as possible. Real-worl
 **Bounce ideas. Be social. Seek to understand different perspectives and what problems they solve.**
 
 Great software emerges from diverse viewpoints. Engage with your team, understand why different approaches exist, and learn from the problems others have solved. No one has all the answers alone.
-
----
-
-#### **Rule 5: Users Are Your North Star**
-**Talk with users often. Get feedback as soon as possible. Be responsive. Understand needs.**
-
-Your users define success. Regular communication ensures you're building what actually matters. Quick feedback loops and genuine understanding of user needs prevent wasted effort and missed opportunities.
 
 ---
 
